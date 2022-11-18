@@ -1,6 +1,8 @@
 # Bus_booking_system
 Developing a bus booking system based on object-oriented- programming in python.
+
 OVERVIEW: Program for booking Asutralia places using Object Oriented Program.
+
 First, it contains four classes for different Errors. 
 Second, It contains nine classes.
 Third, all the attributes in the class are private.
